@@ -1,11 +1,16 @@
 # GGGiver-CSharp
 This is my very first C# program! It is made as a test
 
-Requirements for compilation
+## Installation
+### Download for windows
+Just download the latest release
+
+## Compilation
+### Requirements for compilation
 - Visual Studio 2022 17.4+
 - .net core 7.0
 
-How to compile (with Visual Studio 2022 - Windows)
+### How to compile (with Visual Studio 2022 - Windows)
 - clone the repo
   the GUI way
   - open Visual Studio and click on "Clone Repository"
